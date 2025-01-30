@@ -1,0 +1,16 @@
+name,category,url,lan,country
+bangkok post,media,https://www.bangkokpost.com/rss/data/thailand.xml,en,thailand
+blockmedia,media,https://www.blockmedia.co.kr/feed,kr,korea
+coindesk,media,https://www.coindesk.com/arc/outboundfeeds/rss,en,global
+coin68,media,https://coin68.com/rss/tin-moi-nhat.rss,vn,vietnam
+cointelegraph,media,https://cointelegraph.com/rss,en,global
+malaysia fintech,media,https://fintechnews.my/rss,en,malaysia
+straitstime,media,https://www.straitstimes.com/news/singapore/rss.xml,en,singapore
+straitstime,media,https://www.straitstimes.com/news/asia/rss.xml,en,asia
+tech in asia,media,https://www.techinasia.com/feed,en,asia
+decrypt,media,https://decrypt.co/feed,en,global
+odaily,media,https://www.odaily.news/v1/openapi/odailyrss_en,en,global
+crypto potato,media,https://cryptopotato.com/rss/,en,global
+the times of india,media,https://timesofindia.indiatimes.com/rssfeeds/-2128936835.cms,en,india
+tiger research,research,https://reports.tiger-research.com/feed,en,asia
+asia nikkei,media,https://asia.nikkei.com/rss/feed/nar,en,asia
